@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/pages/davids44/GraphQL/static/js/main.b4562f5b.chunk.js",
+    "main.js.map": "/pages/davids44/GraphQL/static/js/main.b4562f5b.chunk.js.map",
+    "runtime-main.js": "/pages/davids44/GraphQL/static/js/runtime-main.91b97d24.js",
+    "runtime-main.js.map": "/pages/davids44/GraphQL/static/js/runtime-main.91b97d24.js.map",
+    "static/js/2.54bfad64.chunk.js": "/pages/davids44/GraphQL/static/js/2.54bfad64.chunk.js",
+    "static/js/2.54bfad64.chunk.js.map": "/pages/davids44/GraphQL/static/js/2.54bfad64.chunk.js.map",
+    "index.html": "/pages/davids44/GraphQL/index.html",
+    "static/js/2.54bfad64.chunk.js.LICENSE.txt": "/pages/davids44/GraphQL/static/js/2.54bfad64.chunk.js.LICENSE.txt",
+    "static/media/Detailed Project Proposal and initial literature review.ba82b46d.pdf": "/pages/davids44/GraphQL/static/media/Detailed Project Proposal and initial literature review.ba82b46d.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b97d24.js",
+    "static/js/2.54bfad64.chunk.js",
+    "static/js/main.b4562f5b.chunk.js"
+  ]
+}
