@@ -1,0 +1,337 @@
+[
+  {
+    "id": "bccservicetype:349",
+    "name": "Tea / Coffee",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:156",
+    "name": "Yoga / Meditation",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:15",
+    "name": "Independent Living",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:14",
+    "name": "Housing",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:89",
+    "name": "Personal Alarms",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:93",
+    "name": "Films/Movies",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:88",
+    "name": "Mobility Aids",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:154",
+    "name": "Independent Living>Home Care",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:23",
+    "name": "Creativity>Performing Arts",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:159",
+    "name": "Creativity>Music",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:41",
+    "name": "Clubs / Classes",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:10",
+    "name": "Befriending",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:21",
+    "name": "Creativity>Arts / Crafts",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:104",
+    "name": "Isolation",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:167",
+    "name": "Handyman",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:72",
+    "name": "Benefits",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:33",
+    "name": "Advocacy",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:273",
+    "name": "Low Impact",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:43",
+    "name": "Dancing",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:48",
+    "name": "Respite",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:81",
+    "name": "Physical Disabilities",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:13",
+    "name": "Dementia",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:64",
+    "name": "Day Care",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:95",
+    "name": "Cancer",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:17",
+    "name": "Volunteering",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:146",
+    "name": "Mobile",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:11",
+    "name": "Personal Health>Chiropodist / Foot Care",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:87",
+    "name": "Residential Home",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:90",
+    "name": "Food / Meals / Cooking",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:153",
+    "name": "Nutrition",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:34",
+    "name": "Education / Training",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:189",
+    "name": "Walking",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:16",
+    "name": "Shopping",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:201",
+    "name": "Creativity>Music>Singing",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:112",
+    "name": "Abuse",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:120",
+    "name": "Bereavement / Grief",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:221",
+    "name": "Crime",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:158",
+    "name": "Water-based>Swimming",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:118",
+    "name": "Visual Impairment",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:31",
+    "name": "Mental Health",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:30",
+    "name": "Counselling",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:46",
+    "name": "Zumba",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:345",
+    "name": "Community Centre / Hub",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:202",
+    "name": "Weight management",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:190",
+    "name": "Live in Care",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:73",
+    "name": "Sports",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:71",
+    "name": "Health",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:24",
+    "name": "Animals",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:12",
+    "name": "Debt / Money",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:568",
+    "name": "Sports>Badminton",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:144",
+    "name": "Personal Health",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:44",
+    "name": "Pilates",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:145",
+    "name": "Personal Assistant",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:94",
+    "name": "Hairdressing",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:413",
+    "name": "Bingo",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:92",
+    "name": "Learning Difficulties",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:150",
+    "name": "Computers / IT",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:254",
+    "name": "Books / Reading",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:203",
+    "name": "Community Transport",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:178",
+    "name": "Card / Tabletop Games",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:19",
+    "name": "Trips",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:223",
+    "name": "Physiotherapy",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:166",
+    "name": "Cleaning",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:149",
+    "name": "Energy / Heating",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:449",
+    "name": "Tai Chi",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:299",
+    "name": "Holiday",
+    "vocabulary": "BCC Services"
+  },
+  {
+    "id": "bccservicetype:148",
+    "name": "Gardening",
+    "vocabulary": "BCC Services"
+  }
+]
